@@ -14,4 +14,4 @@ Add details to each project, which includes your role, what you did, and, how th
 Let the reader know how and where they can get in touch with you.
 Add your contact details and other contact channels such as your GitHub profile, LinkedIn, Youtube and so on.
 </p>
-<a href="http://127.0.0.1:5500/index.html">Click on the link</a>
+<a href="index.html">Click on the link</a>
